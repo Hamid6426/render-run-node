@@ -1,3 +1,6 @@
+import dotenv from 'dotenv';
+dotenv.config();
+
 // ES Module compatible Express app
 import express from 'express';
 import path from 'path';
